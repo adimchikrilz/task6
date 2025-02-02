@@ -787,7 +787,7 @@ body {
 
 .nav__link:hover {
   color: black;
-  background-color: grey;
+  background-color: #ddd;
   padding: 0.75rem;
   border-radius: 10px;
 }
